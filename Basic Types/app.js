@@ -12,7 +12,7 @@
 // let arr2 = [1,2,{name:"bhino"}] //  this is allowed if you don't specify the type of array
 // let nums:number[] = [1,2,3,4,5] // this is a number array and a string or anything else is not allowed
 // //tuples
-// let tuple: [string,number] = ['bhino',1] //a tuple is a fixed length array with a fixed type
+let tuple = ['bhino', 1]; //a tuple is a fixed length array with a fixed type
 // //enum
 // enum Color {
 //     Red = 'red',

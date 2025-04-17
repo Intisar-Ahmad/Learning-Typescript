@@ -18,7 +18,7 @@
 
 // //tuples
 
-// let tuple: [string,number] = ['bhino',1] //a tuple is a fixed length array with a fixed type
+let tuple: [string,number] = ['bhino',1] //a tuple is a fixed length array with a fixed type
 
 
 // //enum
